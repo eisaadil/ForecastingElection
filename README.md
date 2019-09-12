@@ -1,6 +1,6 @@
 # Forecasting the 2019 Lok Sabha Election using Machine Learning and Data Analysis
 
-This Python project seeks to predict the election results of the General Election, 2019 in India using Data Analysis and Machine Learning. 
+This Python project seeks to forecast the election results of the General Election, 2019 in India using Data Analysis and Machine Learning. 
 
 The project report (PDF) can be found [here](https://github.com/eisaadil/ElectionPrediction/files/3603264/ForecastingElectionUsingMachineLearningAndDataAnalysis.pdf).
 
